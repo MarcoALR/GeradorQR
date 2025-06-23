@@ -28,8 +28,14 @@ export default function App() {
 
   return (
     <div className="container">
+      <br />
+      <br />
+      <br />
+      <br />
       <h1>Gerador de QR Code</h1>
-      <p>Cole um link, texto ou qualquer informação abaixo e gere seu QR Code.</p>
+      <p>
+        Cole um link, texto ou qualquer informação abaixo e gere seu QR Code.
+      </p>
 
       <input
         type="text"
@@ -49,7 +55,7 @@ export default function App() {
             value={input}
             size={256}
             bgColor="#ffffff"
-            fgColor="#000000" 
+            fgColor="#000000"
             level="H"
             includeMargin={true}
           />
