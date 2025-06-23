@@ -18,7 +18,6 @@ export default function App() {
   const baixarQRCode = () => {
     const canvas = qrRef.current.querySelector("canvas");
     if (!canvas) return;
-
     const url = canvas.toDataURL("image/png");
     const link = document.createElement("a");
     link.href = url;
@@ -28,14 +27,8 @@ export default function App() {
 
   return (
     <div className="container">
-      <br />
-      <br />
-      <br />
-      <br />
       <h1>Gerador de QR Code</h1>
-      <p>
-        Cole um link, texto ou qualquer informação abaixo e gere seu QR Code.
-      </p>
+      <p>Cole um link, texto ou qualquer informação abaixo e gere seu QR Code.</p>
 
       <input
         type="text"
