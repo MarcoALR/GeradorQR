@@ -2,7 +2,14 @@
 
 Aplicativo web simples e rápido para gerar QR Codes online. Cole um link, texto ou qualquer informação e gere um QR Code instantaneamente. Também é possível baixar o QR em formato PNG.
 
-🔗 Acesse agora: [https://gerador-qr-taupe.vercel.app](https://gerador-qr-taupe.vercel.app)
+🔗 **Acesse agora:**  
+👉 [https://gerador-qr-taupe.vercel.app](https://gerador-qr-taupe.vercel.app)
+
+---
+
+<div align="center">
+  <img src="public/image.png" alt="Preview do Gerador de QR Code" width="600"/>
+</div>
 
 ---
 
@@ -26,12 +33,10 @@ Aplicativo web simples e rápido para gerar QR Codes online. Cole um link, texto
 
 ---
 
-## 🚧 Estrutura do Projeto
-
----
-
 ## 📦 Como rodar localmente
+ **Clone o repositório:**
 
+```bash
 Clone o repositório:
 git clone https://github.com/MarcoALR/GeradorQR.git
 Instale as dependências:
