@@ -1,12 +1,50 @@
-# React + Vite
+# 🚀 Gerador de QR Code
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicativo web simples e rápido para gerar QR Codes online. Cole um link, texto ou qualquer informação e gere um QR Code instantaneamente. Também é possível baixar o QR em formato PNG.
 
-Currently, two official plugins are available:
+🔗 Acesse agora: [https://gerador-qr-taupe.vercel.app](https://gerador-qr-taupe.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ Gerar QR Code a partir de texto, link ou qualquer dado.
+- ✅ Download do QR Code em formato PNG.
+- ✅ Interface responsiva com tema escuro.
+- ✅ Grátis, rápido e direto no navegador.
+- ✅ Sem anúncios, sem conta e sem complicação.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- ⚛️ [React](https://reactjs.org/)
+- ⚡ [Vite](https://vitejs.dev/)
+- 🖼️ [qrcode.react](https://www.npmjs.com/package/qrcode.react)
+- 💅 CSS Puro (Dark Mode)
+- ☁️ Hospedado com [Vercel](https://vercel.com/)
+
+---
+
+## 🚧 Estrutura do Projeto
+
+---
+
+## 📦 Como rodar localmente
+
+Clone o repositório:
+git clone https://github.com/MarcoALR/GeradorQR.git
+Instale as dependências:
+npm install
+Inicie o servidor local:
+npm run dev
+Acesse em: http://localhost:5173
+
+📤 Deploy
+Este projeto já está publicado em:
+👉 https://gerador-qr-taupe.vercel.app
+
+Para publicar sua própria versão:
+
+🧠 Créditos
+Criado por Marco A. — sinta-se livre para usar, melhorar e compartilhar.
