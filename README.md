@@ -49,7 +49,5 @@ Acesse em: http://localhost:5173
 Este projeto já está publicado em:
 👉 https://gerador-qr-taupe.vercel.app
 
-Para publicar sua própria versão:
-
 🧠 Créditos
 Criado por Marco A. — sinta-se livre para usar, melhorar e compartilhar.
