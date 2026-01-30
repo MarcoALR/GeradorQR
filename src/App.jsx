@@ -53,7 +53,35 @@ export default function App() {
             includeMargin={true}
           />
         </div>
+        
       )}
+      <footer className="footer">
+  <span>
+    By <strong>Marco ALR</strong>
+  </span>
+
+  <div className="social-links">
+    <a
+      href="https://www.instagram.com/marco_032_/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Instagram
+    </a>
+
+    <span>•</span>
+
+    <a
+      href="https://www.linkedin.com/in/marco-ant%C3%B4nio-79aab82bb/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      LinkedIn
+    </a>
+  </div>
+</footer>
+
     </div>
   );
+
 }

@@ -89,3 +89,38 @@ button:hover {
     font-size: 0.95rem;
   }
 }
+.footer {
+  margin-top: 40px;
+  padding: 20px 0 10px;
+  text-align: center;
+  font-size: 14px;
+  color: #bbb;
+  border-top: 1px solid #333;
+}
+
+.footer strong {
+  color: #fff;
+}
+
+.social-links {
+  margin-top: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+
+.social-links a {
+  text-decoration: none;
+  color: #bbb;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+  color: #fff;
+}
+
+.social-links span {
+  color: #444;
+}
