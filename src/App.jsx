@@ -53,11 +53,10 @@ export default function App() {
             includeMargin={true}
           />
         </div>
-        
       )}
       <footer className="footer">
   <span>
-    By <strong>Marco ALR</strong>
+    By <strong>MarcoALR</strong>
   </span>
 
   <div className="social-links">
@@ -68,9 +67,7 @@ export default function App() {
     >
       Instagram
     </a>
-
     <span>•</span>
-
     <a
       href="https://www.linkedin.com/in/marco-ant%C3%B4nio-79aab82bb/"
       target="_blank"
